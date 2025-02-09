@@ -51,3 +51,8 @@ This project is a modern chatbot application built using Python and PyQt5. It in
 - The API key for Google's Generative AI is hardcoded in the [setup_gemini](http://_vscodecontentref_/5) method of the [ChatbotGUI](http://_vscodecontentref_/6) class. Replace it with your own API key if necessary.
 
 ## ScreenShots
+
+<img width="500" alt="1" src="https://github.com/user-attachments/assets/8596132a-36f9-4c6a-8c56-86f9a4bd0547" />
+<img width="500" alt="2" src="https://github.com/user-attachments/assets/23c2d5bd-d6f8-464f-bbd3-32600d5b1de9" />
+<img width="500" alt="3" src="https://github.com/user-attachments/assets/e74c2f77-7fae-47d5-97ba-801e1d381098" />
+<img width="500" alt="4" src="https://github.com/user-attachments/assets/badf7438-4393-43f0-86c0-d8f94790c1ac" />
